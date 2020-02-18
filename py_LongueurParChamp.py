@@ -47,3 +47,9 @@ with open('12K_SAMPLE_Fixe.csv') as csvfile:
           v_nb_char_by_row += f_calculer_longueur(cell)
         #print v_tmp,' > ',i,' ','Longueur de la ligne: ',v_nb_char_by_row
         print (v_tmp)
+
+#Company Code;Account of Operational CoA;Long text of account of operational CoA;Specify if account is P/L or BS;Group Account Number;Account group;Field status group ;Alternative account number;Posting without tax allowed
+#MAR34;SII2922121;Impairment (credit loss) - Government bonds AFSXXX;X;oooooooooo;S2AS;MS03;oooooooooo;x
+#MAR21;4204000701;Receivables-Salary tax&empl contrib-Education taxX;X;oooooooooo;ASTo;Y048;4473oooooo;x
+#MAR93;7622KQ0L00;Bonds- Inc- Bonds-rel-nonLXXXXXXXXXXXXXXXXXXXXXXXX;0;oooooooooo;P&Lo;Y241;760300oooo;x
+#MAR93;7622KQ0Q35;tbdXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;0;oooooooooo;P&Lo;Y241;760301oooo;x
