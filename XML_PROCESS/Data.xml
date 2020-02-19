@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report Dialect="Fr" VenusId="7" ReportDate="2019-02-28" ReportId="3161">
+  <Object Class="Pict" Tag="MOD_ESG_Score_Spread" ObjectId="22645">
+    <Row Type="Header">
+      <Col Tag="TAG_ESG_Score_Spread" />
+      <Col Tag="TAG_ESGRelativeRating">Notation ESG relative</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_ESGScorePortfolio">
+      <Col Tag="TAG_ESG_Score_Spread">Notation ESG (Portefeuille)</Col>
+      <Col Tag="TAG_ESGRelativeRating">6.1</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_ESGScoreBench">
+      <Col Tag="TAG_ESG_Score_Spread">Notation ESG (Benchmark)</Col>
+      <Col Tag="TAG_ESGRelativeRating">5.7</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_CoverageESGPortfolio">
+      <Col Tag="TAG_ESG_Score_Spread">Couverture ESG (Portefeuille)</Col>
+      <Col Tag="TAG_ESGRelativeRating">98.2%</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_CoverageESGBench">
+      <Col Tag="TAG_ESG_Score_Spread">Couverture ESG (Benchmark)</Col>
+      <Col Tag="TAG_ESGRelativeRating">98.0%</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_SpreadESG">
+      <Col Tag="TAG_ESG_Score_Spread">Notation ESG relative</Col>
+      <Col Tag="TAG_ESGRelativeRating">6.2%</Col>
+    </Row>
+  </Object>
+  <Object Class="Pict" Tag="MOD_ESG_Score" ObjectId="22646">
+    <Row Type="Header">
+      <Col Tag="TAG_ESG_Score" />
+      <Col Tag="TAG_ESGAbsoluteRating">Notation ESG absolue</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_ESGScorePortfolio">
+      <Col Tag="TAG_ESG_Score">Notation ESG (Portefeuille)</Col>
+      <Col Tag="TAG_ESGAbsoluteRating">6.1</Col>
+    </Row>
+  </Object>
+  <Object Class="Pict" Tag="MOD_ESG_CarbonFootprint_Spread" ObjectId="22647">
+    <Row Type="Header">
+      <Col Tag="TAG_ESG_CarbonFootprint_Spread" />
+      <Col Tag="TAG_CO2RelativeIntensity">Intensité relative en CO2</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_CarbonIntensityPortfolio">
+      <Col Tag="TAG_ESG_CarbonFootprint_Spread">Intensité en CO2 (Portefeuille)</Col>
+      <Col Tag="TAG_CO2RelativeIntensity">219.9</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_CarbonIntensityBench">
+      <Col Tag="TAG_ESG_CarbonFootprint_Spread">Intensité en CO2 (Benchmark)</Col>
+      <Col Tag="TAG_CO2RelativeIntensity">266.9</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_CoverageCarbonIntensityPortfolio">
+      <Col Tag="TAG_ESG_CarbonFootprint_Spread">Couverture intensité CO2 (Portefeuille)</Col>
+      <Col Tag="TAG_CO2RelativeIntensity">99.0%</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_CoverageCarbonIntensityBench">
+      <Col Tag="TAG_ESG_CarbonFootprint_Spread">Couverture intensité CO2 (Benchmark)</Col>
+      <Col Tag="TAG_CO2RelativeIntensity">98.6%</Col>
+    </Row>
+    <Row Type="Data" Tag="TAG_SpreadCO2">
+      <Col Tag="TAG_ESG_CarbonFootprint_Spread">Intensité relative en CO2</Col>
+      <Col Tag="TAG_CO2RelativeIntensity">-17.6%</Col>
+    </Row>
+  </Object>
+  <Object Class="Chart" Tag="MOD_Breakdown_Sector" ObjectId="22618">
+    <Row Type="Header">
+      <Col Tag="TAG_Breakdown_Sector" />
+      <Col Tag="TAG_Portfolio">Portefeuille</Col>
+      <Col Tag="TAG_Benchmark">Indice de référence*</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Technologie</Col>
+      <Col Tag="TAG_Portfolio">15.91%</Col>
+      <Col Tag="TAG_Benchmark">13.16%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Conso. cycl.</Col>
+      <Col Tag="TAG_Portfolio">14.57%</Col>
+      <Col Tag="TAG_Benchmark">11.89%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Finance</Col>
+      <Col Tag="TAG_Portfolio">12.87%</Col>
+      <Col Tag="TAG_Benchmark">15.25%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Industrie</Col>
+      <Col Tag="TAG_Portfolio">11.37%</Col>
+      <Col Tag="TAG_Benchmark">13.46%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Santé</Col>
+      <Col Tag="TAG_Portfolio">11.19%</Col>
+      <Col Tag="TAG_Benchmark">11.77%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Conso. Base</Col>
+      <Col Tag="TAG_Portfolio">9.63%</Col>
+      <Col Tag="TAG_Benchmark">8.85%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Services de Communication</Col>
+      <Col Tag="TAG_Portfolio">8.17%</Col>
+      <Col Tag="TAG_Benchmark">7.82%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Matériaux</Col>
+      <Col Tag="TAG_Portfolio">5.95%</Col>
+      <Col Tag="TAG_Benchmark">4.69%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Energie</Col>
+      <Col Tag="TAG_Portfolio">5.51%</Col>
+      <Col Tag="TAG_Benchmark">6.62%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Serv. aux collect.</Col>
+      <Col Tag="TAG_Portfolio">3.00%</Col>
+      <Col Tag="TAG_Benchmark">3.35%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Sector">Immobilier</Col>
+      <Col Tag="TAG_Portfolio">1.83%</Col>
+      <Col Tag="TAG_Benchmark">3.13%</Col>
+    </Row>
+  </Object>
+  <Object Class="Chart" Tag="MOD_Breakdown_Geographical" ObjectId="22620">
+    <Row Type="Header">
+      <Col Tag="TAG_Breakdown_Geographical" />
+      <Col Tag="TAG_Portfolio">Portefeuille</Col>
+      <Col Tag="TAG_Benchmark">Indice de référence*</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Etats-Unis</Col>
+      <Col Tag="TAG_Portfolio">50.05%</Col>
+      <Col Tag="TAG_Benchmark">49.43%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">France</Col>
+      <Col Tag="TAG_Portfolio">20.56%</Col>
+      <Col Tag="TAG_Benchmark">22.86%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Japon</Col>
+      <Col Tag="TAG_Portfolio">5.75%</Col>
+      <Col Tag="TAG_Benchmark">6.63%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Royaume-Uni</Col>
+      <Col Tag="TAG_Portfolio">3.95%</Col>
+      <Col Tag="TAG_Benchmark">4.24%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Canada</Col>
+      <Col Tag="TAG_Portfolio">2.78%</Col>
+      <Col Tag="TAG_Benchmark">2.79%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Pays-Bas </Col>
+      <Col Tag="TAG_Portfolio">2.69%</Col>
+      <Col Tag="TAG_Benchmark">1.29%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Allemagne</Col>
+      <Col Tag="TAG_Portfolio">2.58%</Col>
+      <Col Tag="TAG_Benchmark">2.39%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Suisse</Col>
+      <Col Tag="TAG_Portfolio">2.50%</Col>
+      <Col Tag="TAG_Benchmark">2.54%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Hong-Kong</Col>
+      <Col Tag="TAG_Portfolio">1.69%</Col>
+      <Col Tag="TAG_Benchmark">1.11%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Australie</Col>
+      <Col Tag="TAG_Portfolio">1.56%</Col>
+      <Col Tag="TAG_Benchmark">2.01%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Italie</Col>
+      <Col Tag="TAG_Portfolio">1.42%</Col>
+      <Col Tag="TAG_Benchmark">0.61%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Espagne</Col>
+      <Col Tag="TAG_Portfolio">1.41%</Col>
+      <Col Tag="TAG_Benchmark">0.85%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Norvège</Col>
+      <Col Tag="TAG_Portfolio">0.84%</Col>
+      <Col Tag="TAG_Benchmark">0.20%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Suède</Col>
+      <Col Tag="TAG_Portfolio">0.67%</Col>
+      <Col Tag="TAG_Benchmark">0.68%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Belgique</Col>
+      <Col Tag="TAG_Portfolio">0.64%</Col>
+      <Col Tag="TAG_Benchmark">0.27%</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Breakdown_Geographical">Autres</Col>
+      <Col Tag="TAG_Portfolio">0.92%</Col>
+      <Col Tag="TAG_Benchmark">2.11%</Col>
+    </Row>
+  </Object>
+  <Object Class="Table" Tag="MOD_TOP_10" ObjectId="22631">
+    <Row Type="Header">
+      <Col Tag="TAG_Equity">Action</Col>
+      <Col Tag="TAG_Portfolio">Pondération - Portefeuille</Col>
+      <Col Tag="TAG_Benchmark">Pondération - Indice de référence*</Col>
+      <Col Tag="TAG_Sector">Secteur</Col>
+      <Col Tag="TAG_IssuerCountry">Pays émetteur</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">Sanofi</Col>
+      <Col Tag="TAG_Portfolio">2.09%</Col>
+      <Col Tag="TAG_Benchmark">1.42%</Col>
+      <Col Tag="TAG_Sector">Santé</Col>
+      <Col Tag="TAG_IssuerCountry">France</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">Airbus SE</Col>
+      <Col Tag="TAG_Portfolio">1.99%</Col>
+      <Col Tag="TAG_Benchmark">1.14%</Col>
+      <Col Tag="TAG_Sector">Industrie</Col>
+      <Col Tag="TAG_IssuerCountry">France</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">Amazon.com Inc</Col>
+      <Col Tag="TAG_Portfolio">1.94%</Col>
+      <Col Tag="TAG_Benchmark">1.37%</Col>
+      <Col Tag="TAG_Sector">Conso. cycl.</Col>
+      <Col Tag="TAG_IssuerCountry">Etats-Unis</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">TOTAL SA</Col>
+      <Col Tag="TAG_Portfolio">1.84%</Col>
+      <Col Tag="TAG_Benchmark">2.06%</Col>
+      <Col Tag="TAG_Sector">Energie</Col>
+      <Col Tag="TAG_IssuerCountry">France</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">BNP Paribas SA</Col>
+      <Col Tag="TAG_Portfolio">1.65%</Col>
+      <Col Tag="TAG_Benchmark">0.87%</Col>
+      <Col Tag="TAG_Sector">Finance</Col>
+      <Col Tag="TAG_IssuerCountry">France</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">AXA SA</Col>
+      <Col Tag="TAG_Portfolio">1.48%</Col>
+      <Col Tag="TAG_Benchmark">0.74%</Col>
+      <Col Tag="TAG_Sector">Finance</Col>
+      <Col Tag="TAG_IssuerCountry">France</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">Apple Inc</Col>
+      <Col Tag="TAG_Portfolio">1.30%</Col>
+      <Col Tag="TAG_Benchmark">1.69%</Col>
+      <Col Tag="TAG_Sector">Technologie</Col>
+      <Col Tag="TAG_IssuerCountry">Etats-Unis</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">Microsoft Corp</Col>
+      <Col Tag="TAG_Portfolio">1.26%</Col>
+      <Col Tag="TAG_Benchmark">1.65%</Col>
+      <Col Tag="TAG_Sector">Technologie</Col>
+      <Col Tag="TAG_IssuerCountry">Etats-Unis</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">salesforce.com inc</Col>
+      <Col Tag="TAG_Portfolio">1.15%</Col>
+      <Col Tag="TAG_Benchmark">0.24%</Col>
+      <Col Tag="TAG_Sector">Technologie</Col>
+      <Col Tag="TAG_IssuerCountry">Etats-Unis</Col>
+    </Row>
+    <Row Type="Data">
+      <Col Tag="TAG_Equity">Roche Holding AG</Col>
+      <Col Tag="TAG_Portfolio">1.14%</Col>
+      <Col Tag="TAG_Benchmark">0.39%</Col>
+      <Col Tag="TAG_Sector">Santé</Col>
+      <Col Tag="TAG_IssuerCountry">Suisse</Col>
+    </Row>
+    <Row Type="Info" Tag="TAG_NumberOfHoldings">
+      <Col Tag="TAG_Equity">Nombre de lignes</Col>
+      <Col Tag="TAG_Portfolio">228</Col>
+      <Col Tag="TAG_Benchmark" />
+      <Col Tag="TAG_Sector" />
+      <Col Tag="TAG_IssuerCountry" />
+    </Row>
+    <Row Type="Info" Tag="TAG_Cash">
+      <Col Tag="TAG_Equity">% Liquidités</Col>
+      <Col Tag="TAG_Portfolio">0.38%</Col>
+      <Col Tag="TAG_Benchmark" />
+      <Col Tag="TAG_Sector" />
+      <Col Tag="TAG_IssuerCountry" />
+    </Row>
+  </Object>
+</Report>
